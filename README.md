@@ -17,6 +17,8 @@
 - [Репозиторий с примером заданий](https://github.com/pyneng/pyneng-online-13-may-aug-2022)
 
 ##### Задания
+- [Работа с заданиями](https://advpyneng.github.io/docs/apyneng/)
+
 - [PyNEng Intro](https://github.com/pyneng/pyneng-intro)
 
 - [Сайт для работы с кодом python - replit.com](https://replit.com/~)
