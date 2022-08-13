@@ -3,8 +3,8 @@
 ## В этом репозитории собраны уроки и ЛР по изучению Python и Объектно-ориентированного программирования.
 
 ### Используемые ресурсы:
-#### 1. Курсы от преподавателя Натальи Самойленко
-- [Курс Python для сетевых инженеров](https://natenka.github.io/pyneng-course/)
+#### 1. Базовый курс от преподавателя Натальи Самойленко
+- [Базовый Курс Python для сетевых инженеров](https://natenka.github.io/pyneng-course/)
 
 - [Подготовка к курсу “Advanced PyNEng”](https://advpyneng.github.io/advpyneng-3/preparation/)
 
@@ -25,6 +25,23 @@
 
 - [Шаблоны сайта replit.com с заданиями PyNEng Intro](https://replit.com/@pyneng/pyneng-intro?v=1#README.md)
 
+
+
 ##### Примеры
 
 - [Примеры кода из курса Python для сетевых инженеров в /examples](https://github.com/pyneng/pyneng-course-examples)
+
+#### 2. Advanced курс от преподавателя Натальи Самойленко
+
+- [Online курс “Advanced PyNEng”](https://natenka.github.io/advanced-pyneng-online/)
+
+##### Книги
+- [Книга Advanced Python для сетевых инженеров](https://advpyneng.readthedocs.io/)
+
+- [Книга Основы asyncio для сетевых инженеров](https://asyncpyneng.readthedocs.io/ru/latest/)
+
+##### Задания
+- [Задания и примеры из книги "Advanced Python для сетевых инженеров](https://github.com/natenka/advpyneng-examples-exercises)
+
+
+
