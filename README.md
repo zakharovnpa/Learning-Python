@@ -20,3 +20,5 @@
 - [PyNEng Intro](https://github.com/pyneng/pyneng-intro)
 
 - [Сайт для работы с кодом python - replit.com](https://replit.com/~)
+
+- [Шаблоны сайта replit.com с заданиями PyNEng Intro](https://replit.com/@pyneng/pyneng-intro?v=1#README.md)
