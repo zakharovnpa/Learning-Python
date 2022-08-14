@@ -4,5 +4,6 @@
 
 ### Используемые ресурсы:
 - [Курсы по изучению Python для сетевых инженеров от преподавателя Натальи Самойленко](Course-of-Natasha-Samoylenko/README.md)
+- [Самоучитель Python](https://pythonworld.ru/samouchitel-python)
 
 
